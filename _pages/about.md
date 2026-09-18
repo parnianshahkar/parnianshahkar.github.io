@@ -16,7 +16,7 @@ I am a fifth-year Computer Science PhD candidate at the
 During my PhD I have held several research positions: this fall (2026) I am
 visiting MIT to work with [Prof. Negin Golrezaei](https://www.mit.edu/~golrezae/),
 in Summer 2026 I was a Research Scientist at [Adobe](https://research.adobe.com/),
-in Summer 2025 I visited [Northwestern University](https://www.northwestern.edu/),
+in Summer 2025 I visited [Northwestern University](https://www.northwestern.edu/) hosted by [Prof. Edith Elkind](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html),
 and in Summer 2024 I visited [UIUC](https://illinois.edu/) to work with
 [Prof. Ruta Mehta](https://rutamehta.cs.illinois.edu/).
 
