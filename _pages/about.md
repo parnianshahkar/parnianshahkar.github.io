@@ -9,7 +9,35 @@ redirect_from:
 
 <!-- # Welcome! -->
 
-I am a fourth-year Computer Science PhD student at the [University of California, Irvine](https://uci.edu/). My research advisor is [Prof. Ioannis Panageas](https://panageas.github.io), and my research interests are:
+I am a fifth-year Computer Science PhD candidate at the
+[University of California, Irvine](https://uci.edu/), advised by
+[Prof. Ioannis Panageas](https://panageas.github.io).
+
+During my PhD I have held several research positions: this fall (2026) I am
+visiting MIT to work with [Prof. Negin Golrezaei](https://www.mit.edu/~golrezae/),
+in Summer 2026 I was a Research Scientist at [Adobe](https://research.adobe.com/),
+in Summer 2025 I visited [Northwestern University](https://www.northwestern.edu/),
+and in Summer 2024 I visited [UIUC](https://illinois.edu/) to work with
+[Prof. Ruta Mehta](https://rutamehta.cs.illinois.edu/).
+
+Before my PhD, I completed an **M.Sc. in the D-MTEC Department** at
+[ETH Zurich](https://ethz.ch/), and a **B.Sc. in Electrical Engineering**
+(minor in Computer Science) at
+[Sharif University of Technology](http://www.sharif.edu/), where I worked on
+machine learning applications in medicine with
+[Prof. Babak Khalaj](https://sharif.edu/~khalaj/). I also held research
+positions at the [KOF Swiss Economic Institute](https://kof.ethz.ch/en/) in
+Switzerland and [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden.
+
+
+My research focuses on how to get the most capability out of AI models and agents under fixed budgets of compute, data, and cost. I design algorithms for the allocation decisions this requires: which model or agent should handle a task, how much inference-time compute to allocate, and how to distribute scarce computational resources across competing workloads.
+
+In recent work at Adobe on agentic AI and agent harness optimization, I studied sequential model routing under cost budgets and how agents should adapt their token allocation and pricing decisions over time.
+
+My PhD develops the foundations for this work: algorithms with provable guarantees on efficiency, fairness, and strategic robustness for the markets that govern AI, from fairly allocating compute to workloads that arrive unpredictably to designing pricing and allocation mechanisms for data and model APIs. The common thread is making AI systems work well under real resource constraints and in the presence of strategic users.
+
+
+<!-- I am a fifth-year Computer Science PhD candidate at the [University of California, Irvine](https://uci.edu/). My research advisor is [Prof. Ioannis Panageas](https://panageas.github.io), and my research interests are:
 
 1. **Algorithms for Uncertain and Dynamic Environments**  
   I design robust online algorithms and game-theoretic frameworks for dynamic settings where data is noisy, incomplete, or arrives over time. My work specifically focuses on resource allocation and fair division, ensuring strict theoretical performance guarantees even when the environment is constantly changing.
@@ -19,9 +47,10 @@ I am a fourth-year Computer Science PhD student at the [University of California
 
 3. **The Intersection of Algorithmic Game Theory and AI.**
    I explore the intersection of AGT and modern machine learning. My current work applies game-theoretic principles to align incentives in distributed learning frameworks, and studies the benefits of heterogeneity in agentic AI—such as when two misaligned LLMs collaborate on a task.
-
+ -->
 
 ## News
+-**June 2026**: I joined Adobe as a Research Scientist Intern working on agentic AI and harness optimization. 
 - **April 2026** —  Our paper on How to Price Data: A Market Equilibrium Based Approach got accepted at **ICML 2026**. 
 - **December 2025** — Presenting our paper on the Existence and Complexity of Core-Stable Data Exchanges at **NeurIPS** (San Diego).  
 - **December 2025** — Our paper on Equitable Core Imputations for Max-Flow, MST and b-Matching Games got accepted at **AAMAS 2026**.  
@@ -40,14 +69,14 @@ I am a fourth-year Computer Science PhD student at the [University of California
 - **August 2024** — Presenting “**Fair core imputations in flow games**” at **UIUC**.  
 - **Summer 2024** — Wonderful visit to **UIUC** with **Prof. Ruta Mehta**.
 
----
+<!-- ---
 ## Academic Background
 
 Before joining UCI, I earned my **M.Sc. in the D-MTEC Department** at [ETH Zurich](https://ethz.ch/), under the guidance of [Prof. Hans Gersbach](http://www.gersbach.de) and [Dr. Akaki Mamageishvili](http://mamageishvili.info). My master’s thesis examined liquid democracy and the impact of free vote delegation in proof-of-stake blockchains.
 
 I completed my **B.Sc. in Electrical Engineering** (with a minor in Computer Science) at [Sharif University of Technology](http://www.sharif.edu/), where I worked on machine learning applications in medicine under the supervision of [Prof. Babak Khalaj](https://sharif.edu/~khalaj/).
 
-Additionally, I have enriched my academic journey through research assistant roles at the **KOF Swiss Economic Institute** and the **KTH Royal Institute of Technology** in Sweden. In the summer of 2024, I had the privilege of visiting [UIUC](https://illinois.edu/) to collaborate with [Prof. Ruta Mehta](https://rutamehta.cs.illinois.edu), [Prof. Jugal Garg](https://jugal.ise.illinois.edu), and [Prof. Bhaskar Ray Chaudhury](https://www.bhaskar-ray-chaudhury.com) on several exciting projects.
+Additionally, I had research scientist roles at the [KOF Swiss Economic Institute](https://kof.ethz.ch/en/) in Switzerland, [KTH Royal Institute of Technology](https://kof.ethz.ch/en/) in Sweden, [UIUC](https://illinois.edu/), and Adobe  to collaborate with [Prof. Ruta Mehta](https://rutamehta.cs.illinois.edu), [Prof. Jugal Garg](https://jugal.ise.illinois.edu), and [Prof. Bhaskar Ray Chaudhury](https://www.bhaskar-ray-chaudhury.com) on several exciting projects. -->
 
 ---
 
