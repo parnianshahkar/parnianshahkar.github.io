@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+# title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -61,7 +61,7 @@ My PhD develops the foundations for this work: algorithms with provable guarante
 - **May 2025**: Presenting our paper on welfare approximations in hedonic games at **AAMAS 2025**.  
 - **April 2025**: Our paper on fair division with few types accepted at **IJCAI 2025**.  
 - **April 2025**: Our paper on federated learning accepted at **ICML 2025**.  
-- **November 2024** — Our paper on welfare approximations in hedonic games accepted at **AAMAS 2025**.  
+- **November 2024**: Our paper on welfare approximations in hedonic games accepted at **AAMAS 2025**.  
 - **October 2024**: Attending **FOCS 2024**; would love to catch up!  
 - **August 2024**: Presenting “**Fair core imputations in flow games**” at **UIUC**.  
 - **Summer 2024**: Wonderful visit to **UIUC** with **Prof. Ruta Mehta**.
