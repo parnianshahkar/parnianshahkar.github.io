@@ -48,23 +48,23 @@ My PhD develops the foundations for this work: algorithms with provable guarante
 
 ## News
 - **June 2026**: I joined Adobe as a Research Scientist Intern working on agentic AI and harness optimization. 
-- **April 2026** —  Our paper on How to Price Data: A Market Equilibrium Based Approach got accepted at **ICML 2026**. 
-- **December 2025** — Presenting our paper on the Existence and Complexity of Core-Stable Data Exchanges at **NeurIPS** (San Diego).  
-- **December 2025** — Our paper on Equitable Core Imputations for Max-Flow, MST and b-Matching Games got accepted at **AAMAS 2026**.  
-- **October 2025** — Presenting our paper on online fair division at **INFORMS** (Atlanta).  
-- **September 2025** — Great visit to Northwestern University with **Prof. Edith Elkind**.  
-- **September 2025** — Presenting our paper on **Data Markets** at Northwestern University.  
-- **September 2025** — Presenting our paper on Human-AI collaboration under misalignment in the **Human-AI Complementarity** workshop at **CMU**.  
+- **April 2026**: Our paper on How to Price Data: A Market Equilibrium Based Approach got accepted at **ICML 2026**. 
+- **December 2025**: Presenting our paper on the Existence and Complexity of Core-Stable Data Exchanges at **NeurIPS** (San Diego).  
+- **December 2025**: Our paper on Equitable Core Imputations for Max-Flow, MST and b-Matching Games got accepted at **AAMAS 2026**.  
+- **October 2025**: Presenting our paper on online fair division at **INFORMS** (Atlanta).  
+- **September 2025**: Great visit to Northwestern University with **Prof. Edith Elkind**.  
+- **September 2025**: Presenting our paper on **Data Markets** at Northwestern University.  
+- **September 2025**: Presenting our paper on Human-AI collaboration under misalignment in the **Human-AI Complementarity** workshop at **CMU**.  
 - **July 2025** — Attending **EC 2025** at Stanford. If you’re around, let me know!  
-- **May 2025** — Our paper on online fair division accepted at **EC 2025**.  
-- **May 2025** — Attending **AAMAS 2025**; presenting our online fair division paper in the **GAIW** workshop.  
-- **May 2025** — Presenting our paper on welfare approximations in hedonic games at **AAMAS 2025**.  
-- **April 2025** — Our paper on fair division with few types accepted at **IJCAI 2025**.  
-- **April 2025** — Our paper on federated learning accepted at **ICML 2025**.  
+- **May 2025**: Our paper on online fair division accepted at **EC 2025**.  
+- **May 2025**: Attending **AAMAS 2025**; presenting our online fair division paper in the **GAIW** workshop.  
+- **May 2025**: Presenting our paper on welfare approximations in hedonic games at **AAMAS 2025**.  
+- **April 2025**: Our paper on fair division with few types accepted at **IJCAI 2025**.  
+- **April 2025**: Our paper on federated learning accepted at **ICML 2025**.  
 - **November 2024** — Our paper on welfare approximations in hedonic games accepted at **AAMAS 2025**.  
-- **October 2024** — Attending **FOCS 2024**; would love to catch up!  
-- **August 2024** — Presenting “**Fair core imputations in flow games**” at **UIUC**.  
-- **Summer 2024** — Wonderful visit to **UIUC** with **Prof. Ruta Mehta**.
+- **October 2024**: Attending **FOCS 2024**; would love to catch up!  
+- **August 2024**: Presenting “**Fair core imputations in flow games**” at **UIUC**.  
+- **Summer 2024**: Wonderful visit to **UIUC** with **Prof. Ruta Mehta**.
 
 <!-- ---
 ## Academic Background
