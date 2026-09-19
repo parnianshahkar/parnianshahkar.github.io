@@ -55,7 +55,7 @@ My PhD develops the foundations for this work: algorithms with provable guarante
 - **September 2025**: Great visit to Northwestern University with **Prof. Edith Elkind**.  
 - **September 2025**: Presenting our paper on **Data Markets** at Northwestern University.  
 - **September 2025**: Presenting our paper on Human-AI collaboration under misalignment in the **Human-AI Complementarity** workshop at **CMU**.  
-- **July 2025** — Attending **EC 2025** at Stanford. If you’re around, let me know!  
+- **July 2025**: Attending **EC 2025** at Stanford. If you’re around, let me know!  
 - **May 2025**: Our paper on online fair division accepted at **EC 2025**.  
 - **May 2025**: Attending **AAMAS 2025**; presenting our online fair division paper in the **GAIW** workshop.  
 - **May 2025**: Presenting our paper on welfare approximations in hedonic games at **AAMAS 2025**.  
