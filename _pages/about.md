@@ -30,9 +30,9 @@ positions at the [KOF Swiss Economic Institute](https://kof.ethz.ch/en/) in
 Switzerland and [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden.
 
 
-My research focuses on how to get the most capability out of AI models and agents under fixed budgets of compute, data, and cost. I design algorithms for the allocation decisions this requires: which model or agent should handle a task, how much inference-time compute to allocate, and how to distribute scarce computational resources across competing workloads.
-
-In recent work at Adobe on agentic AI and agent harness optimization, I studied sequential model routing under cost budgets and how agents should adapt their token allocation and pricing decisions over time.
+My research focuses on how to get the most capability out of AI models and agents under fixed budgets of compute, data, and cost. I design algorithms for the allocation decisions this requires: which model or agent should handle a task, how much inference-time compute to allocate, and how to distribute scarce computational resources across competing workloads. 
+<!-- In recent work at Adobe, I worked on agentic AI, focusing on cost-efficient decision-making in multi-model settings. -->
+<!-- In recent work at Adobe on agentic AI and harness optimization, I studied sequential model routing and how agents should adapt their token allocation and pricing decisions over time. -->
 
 My PhD develops the foundations for this work: algorithms with provable guarantees on efficiency, fairness, and strategic robustness for the markets that govern AI, from fairly allocating compute to workloads that arrive unpredictably to designing pricing and allocation mechanisms for data and model APIs. The common thread is making AI systems work well under real resource constraints and in the presence of strategic users.
 
@@ -50,7 +50,7 @@ My PhD develops the foundations for this work: algorithms with provable guarante
  -->
 
 ## News
--**June 2026**: I joined Adobe as a Research Scientist Intern working on agentic AI and harness optimization. 
+- **June 2026**: I joined Adobe as a Research Scientist Intern working on agentic AI and harness optimization. 
 - **April 2026** —  Our paper on How to Price Data: A Market Equilibrium Based Approach got accepted at **ICML 2026**. 
 - **December 2025** — Presenting our paper on the Existence and Complexity of Core-Stable Data Exchanges at **NeurIPS** (San Diego).  
 - **December 2025** — Our paper on Equitable Core Imputations for Max-Flow, MST and b-Matching Games got accepted at **AAMAS 2026**.  
