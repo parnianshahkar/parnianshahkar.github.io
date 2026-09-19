@@ -9,11 +9,9 @@ redirect_from:
 
 <!-- # Welcome! -->
 
-I am a fifth-year Computer Science PhD candidate at the
+I am a fifth-year **Computer Science PhD candidate** at the
 [University of California, Irvine](https://uci.edu/), advised by
-[Prof. Ioannis Panageas](https://panageas.github.io).
-
-During my PhD I have held several research positions: this fall (2026) I am
+[Prof. Ioannis Panageas](https://panageas.github.io). During my PhD I have held several research positions: this fall (2026) I am
 visiting MIT to work with [Prof. Negin Golrezaei](https://www.mit.edu/~golrezae/),
 in Summer 2026 I was a Research Scientist at [Adobe](https://research.adobe.com/),
 in Summer 2025 I visited [Northwestern University](https://www.northwestern.edu/) hosted by [Prof. Edith Elkind](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html),
@@ -33,7 +31,6 @@ Switzerland and [KTH Royal Institute of Technology](https://www.kth.se/en) in Sw
 My research focuses on how to get the most capability out of AI models and agents under fixed budgets of compute, data, and cost. I design algorithms for the allocation decisions this requires: which model or agent should handle a task, how much inference-time compute to allocate, and how to distribute scarce computational resources across competing workloads. 
 <!-- In recent work at Adobe, I worked on agentic AI, focusing on cost-efficient decision-making in multi-model settings. -->
 <!-- In recent work at Adobe on agentic AI and harness optimization, I studied sequential model routing and how agents should adapt their token allocation and pricing decisions over time. -->
-
 My PhD develops the foundations for this work: algorithms with provable guarantees on efficiency, fairness, and strategic robustness for the markets that govern AI, from fairly allocating compute to workloads that arrive unpredictably to designing pricing and allocation mechanisms for data and model APIs. The common thread is making AI systems work well under real resource constraints and in the presence of strategic users.
 
 
