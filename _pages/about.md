@@ -47,7 +47,7 @@ My PhD develops the foundations for this work: algorithms with provable guarante
  -->
 
 ## News
-- **June 2026**: I joined Adobe as a Research Scientist Intern working on agentic AI and harness optimization. 
+- **June 2026**: I joined **Adobe** as a Research Scientist Intern working on agentic AI and harness optimization. 
 - **April 2026**: Our paper on How to Price Data: A Market Equilibrium Based Approach got accepted at **ICML 2026**. 
 - **December 2025**: Presenting our paper on the Existence and Complexity of Core-Stable Data Exchanges at **NeurIPS** (San Diego).  
 - **December 2025**: Our paper on Equitable Core Imputations for Max-Flow, MST and b-Matching Games got accepted at **AAMAS 2026**.  
